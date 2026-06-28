@@ -1,0 +1,1 @@
+# Amazon S3: More Than Just a Bucket ## Suggested Image Idea Place a **central Amazon S3 bucket** in the middle with arrows connecting to: 1. **AWS Lambda** ⚡ 2. **Amazon EventBridge** 3. **Amazon SQS** 4. **Amazon SNS** 5. **Amazon CloudFront** 6. **AWS Glue** 7. **Amazon Athena** 8. **Amazon Redshift** 9. **AWS Backup** 10. **Cross-Region Replication**
